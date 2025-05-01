@@ -1,5 +1,9 @@
 CONFIG_BUILD_CONFIG_FILE="build.config.mtk.aarch64"
 
+# Kernel Name
+CONFIG_LOCALVERSION="-会いたい"
+CONFIG_LOCALVERSION_AUTO=n
+
 # KernelSU
 CONFIG_KSU=y
 CONFIG_KPM=y
